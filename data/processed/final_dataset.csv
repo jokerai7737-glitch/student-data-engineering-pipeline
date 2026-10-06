@@ -1,0 +1,12 @@
+﻿student_id,student_name,age,major,city,gpa,attendance,status,email,phone,scholarship_status,advisor,advising_score,advising_status,academic_warning,course_id,course_name,credit_hours,semester,score,performance_level,attendance_status,source
+1001,Ahmed Ali,21,Computer Science,Sanaa,3.45,92,Active,ahmed.ali@example.com,771234567,None,Dr. Samir,4.8,Strong,No,101,Python Programming,3,2026-S1,88.0,Very Good,Good,CSV+API+DATABASE+MONGODB+HTML
+1001,Ahmed Ali,21,Computer Science,Sanaa,3.45,92,Active,ahmed.ali@example.com,771234567,None,Dr. Samir,4.8,Strong,No,102,Data Engineering,3,2026-S1,91.0,Very Good,Good,CSV+API+DATABASE+MONGODB+HTML
+1002,Sara Mohammed,22,Artificial Intelligence,Aden,2.8,78,Active,sara.mohammed@example.com,772345678,Eligible,Dr. Amal,4.2,Strong,No,101,Python Programming,3,2026-S1,79.0,Good,Good,CSV+API+DATABASE+MONGODB+HTML
+1003,Omar Hassan,20,Information Systems,Taiz,3.7,88,Active,omar.hassan@example.com,773456789,None,Dr. Nabil,4.9,Strong,No,103,Artificial Intelligence,4,2026-S1,94.0,Excellent,Good,CSV+API+DATABASE+MONGODB+HTML
+1004,Lina Abdullah,23,Data Science,Sanaa,3.2,84,Active,Unknown,774567890,Eligible,Dr. Huda,4.1,Strong,No,104,Database Systems,3,2026-S1,85.0,Very Good,Good,CSV+API+DATABASE+MONGODB+HTML
+1008,Noura Ali,24,Artificial Intelligence,Aden,1.9,70,At Risk,noura.ali@example.com,776789012,Active,Dr. Salma,3.0,Needs Review,Yes,102,Data Engineering,3,2026-S1,68.0,At Risk,Low,CSV+API+DATABASE+MONGODB+HTML
+1009,Fahad Musa,19,Information Systems,Taiz,3.0,90,Active,fahad.musa@example.com,777890123,None,Dr. Nabil,4.5,Strong,No,103,Artificial Intelligence,4,2026-S1,82.0,Very Good,Good,CSV+API+DATABASE+MONGODB+HTML
+1010,Huda Salem,25,Data Science,Ibb,2.1,74,Active,huda.salem@example.com,Unknown,None,Dr. Huda,4.45,Strong,No,104,Database Systems,3,2026-S1,73.0,Acceptable,Low,CSV+API+DATABASE+MONGODB+HTML
+1011,Ali Nasser,28,Computer Science,Ibb,3.5,80,Active,ali.nasser@example.com,778901234,Eligible,Dr. Amal,4.7,Strong,No,101,Python Programming,3,2026-S1,95.0,Excellent,Good,CSV+API+DATABASE+MONGODB+HTML
+1012,Rawan Saleh,21,Artificial Intelligence,Hodeidah,3.2,82,Active,rawan.saleh@example.com,779012345,None,Dr. Salma,4.4,Strong,No,103,Artificial Intelligence,4,2026-S1,87.0,Very Good,Good,CSV+API+DATABASE+MONGODB+HTML
+1012,Rawan Saleh,21,Artificial Intelligence,Hodeidah,3.2,82,Active,rawan.saleh@example.com,779012345,None,Dr. Salma,4.4,Strong,No,104,Database Systems,3,2026-S1,89.0,Very Good,Good,CSV+API+DATABASE+MONGODB+HTML

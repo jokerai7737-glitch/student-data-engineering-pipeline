@@ -1,0 +1,27 @@
+{
+  "paths": {
+    "students_csv": "data/raw/students.csv",
+    "api_json": "data/raw/api_response.json",
+    "database": "database/students.db",
+    "html_page": "data/raw/student_advising.html",
+    "final_dataset": "data/processed/final_dataset.csv",
+    "rejected_records": "data/rejected/rejected_records.csv",
+    "log_file": "logs/pipeline.log"
+  },
+  "api": {
+    "use_mock": true,
+    "host": "127.0.0.1",
+    "port": 8765,
+    "endpoint": "/students"
+  },
+  "mongodb": {
+    "uri": "mongodb://127.0.0.1:27017",
+    "database": "student_pipeline",
+    "collection": "student_profiles",
+    "timeout_ms": 5000
+  },
+  "html": {
+    "use_url": false,
+    "url": ""
+  }
+}

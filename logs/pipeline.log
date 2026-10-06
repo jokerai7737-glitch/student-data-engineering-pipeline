@@ -1,0 +1,46 @@
+2026-10-05 16:46:15,455 INFO Pipeline execution started
+2026-10-05 16:46:15,561 INFO CSV extraction started
+2026-10-05 16:46:16,207 INFO CSV records: 13
+2026-10-05 16:46:16,340 INFO API extraction started
+2026-10-05 16:46:17,406 INFO API records: 13
+2026-10-05 16:46:17,513 INFO Database extraction started
+2026-10-05 16:46:17,727 INFO Database records: 14
+2026-10-05 16:46:17,986 INFO MongoDB extraction started
+2026-10-05 16:46:22,700 INFO MongoDB records: 13
+2026-10-05 16:46:22,717 INFO HTML extraction started
+2026-10-05 16:46:23,256 INFO HTML records: 14
+2026-10-05 16:46:23,341 INFO Source validation started
+2026-10-05 16:46:26,062 INFO Source validation completed
+2026-10-05 16:46:26,236 INFO Cleaning completed
+2026-10-05 16:46:26,242 WARNING Extra student IDs found in API: ['9999']
+2026-10-05 16:46:26,288 WARNING Extra student IDs found in DATABASE: ['1006']
+2026-10-05 16:46:26,346 WARNING Extra student IDs found in MONGODB: ['9998']
+2026-10-05 16:46:26,387 WARNING Extra student IDs found in HTML: ['1006', '9997']
+2026-10-05 16:46:26,450 INFO Data integration started
+2026-10-05 16:46:26,653 INFO Integrated records: 11
+2026-10-05 16:46:26,773 INFO Transformation started
+2026-10-05 16:46:27,133 INFO Final dataset created: 11
+2026-10-05 16:46:27,223 INFO Pipeline execution completed in 11.64 seconds
+2026-10-05 16:47:30,359 INFO Pipeline execution started
+2026-10-05 16:47:30,360 INFO CSV extraction started
+2026-10-05 16:47:30,371 INFO CSV records: 13
+2026-10-05 16:47:30,372 INFO API extraction started
+2026-10-05 16:47:30,912 INFO API records: 13
+2026-10-05 16:47:30,913 INFO Database extraction started
+2026-10-05 16:47:30,918 INFO Database records: 14
+2026-10-05 16:47:30,919 INFO MongoDB extraction started
+2026-10-05 16:47:30,986 INFO MongoDB records: 13
+2026-10-05 16:47:30,987 INFO HTML extraction started
+2026-10-05 16:47:31,057 INFO HTML records: 14
+2026-10-05 16:47:31,058 INFO Source validation started
+2026-10-05 16:47:31,311 INFO Source validation completed
+2026-10-05 16:47:31,337 INFO Cleaning completed
+2026-10-05 16:47:31,340 WARNING Extra student IDs found in API: ['9999']
+2026-10-05 16:47:31,352 WARNING Extra student IDs found in DATABASE: ['1006']
+2026-10-05 16:47:31,367 WARNING Extra student IDs found in MONGODB: ['9998']
+2026-10-05 16:47:31,392 WARNING Extra student IDs found in HTML: ['1006', '9997']
+2026-10-05 16:47:31,411 INFO Data integration started
+2026-10-05 16:47:31,483 INFO Integrated records: 11
+2026-10-05 16:47:31,486 INFO Transformation started
+2026-10-05 16:47:31,567 INFO Final dataset created: 11
+2026-10-05 16:47:31,567 INFO Pipeline execution completed in 1.20 seconds
